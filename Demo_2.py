@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import cv2
 from PIL import Image
 
 header = st.container()
